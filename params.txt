@@ -1,0 +1,16 @@
+aoai_api_key;
+aoai_api_version;
+aoai_endpoint;
+aoai_embedding_model;
+ai_search_api_key;
+ai_search_endpoint;
+index_name;
+query;
+vector_fields;
+search_mode;
+filter;
+highlight_fields;
+query_type;
+search_fields;
+select;
+top;
