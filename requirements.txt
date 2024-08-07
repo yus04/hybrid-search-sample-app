@@ -1,0 +1,5 @@
+openai==1.40.0
+pandas==2.2.2
+streamlit==1.37.1
+azure-core==1.30.2
+azure-search-documents==11.5.1
