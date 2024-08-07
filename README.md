@@ -47,3 +47,11 @@ search_fields;
 select;
 top;
 ```
+
+## 参考文献
+- [Vector search in Python (Azure AI Search)](
+https://github.com/Azure/azure-search-vector-samples/blob/main/demo-python/code/basic-vector-workflow/azure-search-vector-python-sample.ipynb)
+- [SearchClient クラス](
+https://learn.microsoft.com/ja-jp/python/api/azure-search-documents/azure.search.documents.searchclient?view=azure-python)
+- [VectorizedQuery クラス](
+https://learn.microsoft.com/ja-jp/python/api/azure-search-documents/azure.search.documents.models.vectorizedquery?view=azure-python)
